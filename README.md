@@ -1,2 +1,2 @@
 # UOW
-.Net - Generic Repository &amp; Unit Of Work
+.Net - Generic Repository &amp; Unit of Work
